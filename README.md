@@ -1,5 +1,7 @@
 # Sistema RAG Offline - Asistente Técnico Industrial
 
+![Preview del sistema](assets/preview.png)
+
 Asistente basado en Inteligencia Artificial (Retrieval-Augmented Generation) para documentación técnica con funcionamiento 100% offline.
 
 ## Características

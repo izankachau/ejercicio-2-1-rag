@@ -1,3 +1,11 @@
+# =============================================================================
+# Sistema RAG Offline - Ejercicio 2.1
+# Autor  : Izan Kachau
+# Fecha  : Febrero 2026
+# Desc.  : Motor de búsqueda semántica sobre documentos locales usando FAISS
+#          y patrones LCEL de LangChain. Sin conexión a internet requerida.
+# =============================================================================
+
 import os
 from langchain_community.document_loaders import TextLoader, PyPDFLoader
 from langchain_text_splitters import CharacterTextSplitter
